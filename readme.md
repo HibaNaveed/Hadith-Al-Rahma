@@ -28,6 +28,7 @@
 To get a better understanding of how **Hadith Al-Rahma** works, you can check out the demo video below showcasing the core features and navigation of the app.
 
 
+https://github.com/user-attachments/assets/4abfecc9-3ce8-45e8-84f0-813849467865
 
 
 ---

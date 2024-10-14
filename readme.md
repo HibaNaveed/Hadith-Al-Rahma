@@ -75,9 +75,6 @@ https://github.com/user-attachments/assets/4abfecc9-3ce8-45e8-84f0-813849467865
 6. Utilize the search bar to find Hadiths by keywords or specific topics.
 
 ---
-
----
-
 ## Contact
 
 For any queries or support, feel free to contact:
